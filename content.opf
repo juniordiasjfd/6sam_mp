@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" unique-identifier="BookId" xml:lang="pt-br" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:identifier scheme="ISBN">ISBN</dc:identifier>
+    <dc:creator opf:role="aut" opf:file-as="PNLD, Autor">Autores</dc:creator>
+    <dc:title>Nomedaobra</dc:title>
+    <dc:publisher>Editora</dc:publisher>
+    <dc:subject>Disciplina</dc:subject>
+    <dc:format>Livro Digital</dc:format>
+    <dc:language>pt-BR</dc:language>
+    <dc:date event="creation">0000-00-00</dc:date>
+    <dc:description>Descrição da obra</dc:description>
+    <dc:rights>Copyright © editora, 0000</dc:rights>
+    <dc:identifier id="BookId" scheme="UUID"></dc:identifier>
+    <meta name="cover" content="cover.jpeg"/>
+      <x-metadata>
+        <EmbeddedCover>cover.jpeg</EmbeddedCover>
+      </x-metadata>
+    <meta property="schema:accessibilitySummary" xml:lang="pt-br">Esta publicação está em conformidade com a especificação de acessibilidade em WCAG 2.0 Level AA</meta>
+    <meta property="schema:accessMode">textual</meta>
+    <meta property="schema:accessMode">visual</meta>
+    <meta property="schema:accessModeSufficient">textual,visual</meta>
+    <meta property="schema:accessModeSufficient">textual</meta>
+    <meta property="schema:accessibilityFeature">MathML</meta>
+    <meta property="schema:accessibilityFeature">describedMath</meta>
+    <meta property="schema:accessibilityFeature">captions</meta>
+    <meta property="schema:accessibilityFeature">alternativeText</meta>
+    <meta property="schema:accessibilityFeature">longDescription</meta>
+    <meta property="schema:accessibilityFeature">pageNavigation</meta>
+    <meta property="schema:accessibilityFeature">printPageNumbers</meta>
+    <meta property="schema:accessibilityFeature">readingOrder</meta>
+    <meta property="schema:accessibilityFeature">structuralNavigation</meta>
+    <meta property="schema:accessibilityFeature">tableOfContents</meta>
+    <meta property="schema:accessibilityAPI">ARIA</meta>
+    <meta property="schema:accessibilityHazard">noFlashingHazard</meta>
+    <meta property="schema:accessibilityHazard">noSoundHazard</meta>
+    <meta property="schema:accessibilityHazard">noMotionSimulationHazard</meta>
+    
+  </metadata>
+  <manifest>
+  <!-- Navegação -->
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="index.xhtml" href="index.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+
+  <!-- PÁGINAS DO LIVRO UNIDADES -->   
+    <!--  <item id="" href="" media-type=""/> --> 
+    <!-- Arquivos inicias -->  
+    <item id="modeloexemplo.xhtml" href="content/modeloexemplo.xhtml" media-type="application/xhtml+xml"/>
+    <item id="capasfinais_prof.xhtml" href="content/capasfinais_prof.xhtml" media-type="application/xhtml+xml"/>
+
+    <!-- Arquivos Introdução / Unidade / Conclusão -->  
+
+    <!-- Arquivos Finais -->  
+
+    <!-- CSS -->
+    <item id="stylo_lt.css" href="resources/styles/style_lt.css" media-type="text/css"/>
+    <item id="reset.css" href="resources/styles/reset.css" media-type="text/css"/>
+
+  <!-- SCRIPTS -->
+    <item id="" href="resources/scripts/" media-type="text/js"/>
+
+  <!-- FONTES -->
+    
+    <item id="Arial.woff2" href="resources/fonts/Arial.woff2" media-type="fonts"/>
+    <item id="Arial.woff" href="resources/fonts/Arial.woff" media-type="fonts"/>
+    <item id="Arial.otf" href="resources/fonts/Arial.otf" media-type="fonts"/>
+    <item id="Arial.ttf" href="resources/fonts/Arial.ttf" media-type="fonts"/>
+
+
+    <!-- MODELO DE IMAGENS
+    <item id="" href="resources/images/" media-type="image/png"/>
+    <item id="" href="resources/images/" media-type="image/jpg"/>
+    <item id="" href="resources/images/" media-type="image/svg+xml"/>
+    -->
+    <!-- IMAGENS / ICONES CSS -->
+     
+
+    <!-- IMAGENS NO XHTML -->
+
+
+    <!-- AUDIO NO XHTML -->     
+    <item id="" href="resources/video/" media-type="audio/mpeg"/>
+
+    <!-- VÍDEO NO XHTML -->
+    <item id="" href="resources/video/" media-type="video/mp4"/>
+
+
+  </manifest>
+
+    <!-- estrutura -->
+  <spine toc="ncx">
+    <itemref idref="index.xhtml" linear="yes"/>   
+    <itemref idref="unidade00.xhtml"/>  
+    <itemref idref="materialcomplementar.xhtml"/>
+    <itemref idref="credito-imagem.xhtml"/>
+    <itemref idref="urlsencurtadas.xhtml"/>
+    <itemref idref="capasfinais_prof.xhtml"/>
+  </spine>
+
+  <!-- Guia  -->
+  <guide>
+    <reference type="toc" title="Table of Contents" href="index.xhtml#toc"/>
+    <reference type="text" title="Unidade 1" href="content/unidade01.xhtml"/>
+   
+    <reference type="text" title="Créditos Imagens" href="content/credito-imagem.xhtml"/>
+     <reference type="text" title="URLs Encurtadas" href="content/urlsencurtadas.xhtml"/>
+     <reference type="text" title="Capas finais" href="content/capasfinais_prof.xhtml"/>
+  </guide>
+</package>
+

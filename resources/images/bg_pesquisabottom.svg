@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36" height="8" viewBox="0 0 36 8">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_17" data-name="Retângulo 17" width="36" height="8" transform="translate(623 953)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Retângulo_16" data-name="Retângulo 16" d="M2.834,0H36.851a2.833,2.833,0,0,1,2.833,2.833V9.354a2.834,2.834,0,0,1-2.834,2.834H2.835A2.835,2.835,0,0,1,0,9.353V2.834A2.834,2.834,0,0,1,2.834,0Z" transform="translate(38.428 8.295)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="bg_pesquisabottom" transform="translate(-623 -953)" clip-path="url(#clip-path)">
+    <g id="Grupo_1449" data-name="Grupo 1449" transform="translate(582.572 939.705)" clip-path="url(#clip-path-2)">
+      <line id="Linha_25" data-name="Linha 25" x1="71.338" y2="55.212" transform="translate(12.029 0.184)" fill="none" stroke="#e04a1f" stroke-width="0.464"/>
+      <line id="Linha_26" data-name="Linha 26" x1="33.462" y2="25.896" transform="translate(18.803 0.184)" fill="none" stroke="#e04a1f" stroke-width="0.464"/>
+      <line id="Linha_27" data-name="Linha 27" x1="33.462" y2="25.896" transform="translate(65.456 0.184)" fill="none" stroke="#e04a1f" stroke-width="0.464"/>
+      <line id="Linha_28" data-name="Linha 28" x1="51.99" y2="40.246" transform="translate(15.826 0.184)" fill="none" stroke="#e04a1f" stroke-width="0.464"/>
+      <line id="Linha_29" data-name="Linha 29" x1="73.89" y2="57.222" transform="translate(12.588 0.184)" fill="none" stroke="#e04a1f" stroke-width="0.464"/>
+      <line id="Linha_30" data-name="Linha 30" x1="33.462" y2="25.896" transform="translate(21.913 0.184)" fill="none" stroke="#e04a1f" stroke-width="0.464"/>
+      <line id="Linha_31" data-name="Linha 31" x1="33.462" y2="25.896" transform="translate(6.362 0.184)" fill="none" stroke="#e04a1f" stroke-width="0.464"/>
+      <line id="Linha_32" data-name="Linha 32" x1="33.462" y2="25.896" transform="translate(68.566 0.184)" fill="none" stroke="#e04a1f" stroke-width="0.464"/>
+      <line id="Linha_33" data-name="Linha 33" x1="55.1" y2="42.703" transform="translate(15.826 0.184)" fill="none" stroke="#e04a1f" stroke-width="0.464"/>
+      <line id="Linha_34" data-name="Linha 34" x1="75.436" y2="58.674" transform="translate(14.152 0.184)" fill="none" stroke="#e04a1f" stroke-width="0.464"/>
+      <line id="Linha_35" data-name="Linha 35" x1="33.462" y2="25.896" transform="translate(25.024 0.184)" fill="none" stroke="#e04a1f" stroke-width="0.464"/>
+      <line id="Linha_36" data-name="Linha 36" x1="33.462" y2="25.896" transform="translate(9.473 0.184)" fill="none" stroke="#e04a1f" stroke-width="0.464"/>
+      <line id="Linha_37" data-name="Linha 37" x1="33.462" y2="25.896" transform="translate(71.677 0.184)" fill="none" stroke="#e04a1f" stroke-width="0.464"/>
+      <line id="Linha_38" data-name="Linha 38" x1="33.462" y2="25.896" transform="translate(74.787 0.184)" fill="none" stroke="#e04a1f" stroke-width="0.464"/>
+      <line id="Linha_39" data-name="Linha 39" x1="33.462" y2="25.896" transform="translate(77.897 0.184)" fill="none" stroke="#e04a1f" stroke-width="0.464"/>
+      <line id="Linha_40" data-name="Linha 40" x1="59.774" y2="46.277" transform="translate(14.263 0.184)" fill="none" stroke="#e04a1f" stroke-width="0.464"/>
+      <line id="Linha_41" data-name="Linha 41" x1="79.664" y2="61.802" transform="translate(13.034 0.184)" fill="none" stroke="#e04a1f" stroke-width="0.464"/>
+      <line id="Linha_42" data-name="Linha 42" x1="33.462" y2="25.896" transform="translate(28.134 0.184)" fill="none" stroke="#e04a1f" stroke-width="0.464"/>
+      <line id="Linha_43" data-name="Linha 43" x1="33.462" y2="25.896" transform="translate(12.583 0.184)" fill="none" stroke="#e04a1f" stroke-width="0.464"/>
+      <line id="Linha_44" data-name="Linha 44" x1="65.229" y2="50.521" transform="translate(11.918 0.184)" fill="none" stroke="#e04a1f" stroke-width="0.464"/>
+      <line id="Linha_45" data-name="Linha 45" x1="84.337" y2="65.487" transform="translate(11.471 0.184)" fill="none" stroke="#e04a1f" stroke-width="0.464"/>
+      <line id="Linha_46" data-name="Linha 46" x1="47.204" y2="36.561" transform="translate(17.502 0.184)" fill="none" stroke="#e04a1f" stroke-width="0.464"/>
+      <line id="Linha_47" data-name="Linha 47" x1="33.462" y2="25.896" transform="translate(15.693 0.184)" fill="none" stroke="#e04a1f" stroke-width="0.464"/>
+      <line id="Linha_48" data-name="Linha 48" x1="69.233" y2="53.425" transform="translate(11.024 0.184)" fill="none" stroke="#e04a1f" stroke-width="0.464"/>
+    </g>
+  </g>
+</svg>

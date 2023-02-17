@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20.868" height="16.133" viewBox="0 0 20.868 16.133">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_122" data-name="Retângulo 122" width="20.868" height="16.133" transform="translate(0 0)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="tecla_divisao" transform="translate(0 0)">
+    <rect id="Retângulo_120" data-name="Retângulo 120" width="19.861" height="15.595" transform="translate(1.007 0.001)" fill="#00a0b7"/>
+    <path id="Caminho_9332" data-name="Caminho 9332" d="M1.007,0,0,.673v15.46L1.007,15.6Z" fill="#007786"/>
+    <path id="Caminho_9333" data-name="Caminho 9333" d="M1.041,15.6,0,16.132H19.859l1.009-.537Z" fill="#40bbf0"/>
+    <rect id="Retângulo_121" data-name="Retângulo 121" width="8.091" height="0.859" transform="translate(7.082 7.417)" fill="#161615"/>
+    <g id="Grupo_9281" data-name="Grupo 9281">
+      <g id="Grupo_9280" data-name="Grupo 9280" clip-path="url(#clip-path)">
+        <path id="Caminho_9334" data-name="Caminho 9334" d="M12.057,4.777a.929.929,0,1,0-.93.93.931.931,0,0,0,.93-.93" fill="#161615"/>
+        <path id="Caminho_9335" data-name="Caminho 9335" d="M12.057,10.914a.929.929,0,1,0-.93.93.931.931,0,0,0,.93-.93" fill="#161615"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="9" viewBox="0 0 24 9">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_54" data-name="Retângulo 54" width="24" height="9" transform="translate(170 323)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Caminho_6599" data-name="Caminho 6599" d="M0,0H63.354V-193.669H0Z" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="bg_sumarioexptec2" transform="translate(-170 -323)" clip-path="url(#clip-path)">
+    <g id="Grupo_6526" data-name="Grupo 6526" transform="translate(157 331.339)" clip-path="url(#clip-path-2)">
+      <g id="Grupo_6523" data-name="Grupo 6523" transform="translate(6.528 -173.108)">
+        <path id="Caminho_6596" data-name="Caminho 6596" d="M0,0V162.6a8.5,8.5,0,0,0,8.5,8.5H29.83" fill="none" stroke="#ff5f7e" stroke-width="3"/>
+      </g>
+      <g id="Grupo_6524" data-name="Grupo 6524" transform="translate(5.811 -163.916)">
+        <path id="Caminho_6597" data-name="Caminho 6597" d="M0,0H48.047a5.67,5.67,0,0,0,5.67-5.669v-9.779a5.671,5.671,0,0,0-5.67-5.67H5.669A5.67,5.67,0,0,0,0-15.448V0" fill="#ff5f7e"/>
+      </g>
+      <g id="Grupo_6525" data-name="Grupo 6525" transform="translate(5.528 -168.026)">
+        <path id="Caminho_6598" data-name="Caminho 6598" d="M0,0H52.157a5.669,5.669,0,0,0,5.67-5.669v-9.638a5.671,5.671,0,0,0-5.67-5.67H5.669A5.67,5.67,0,0,0,0-15.307V0" fill="#2b2e34"/>
+      </g>
+    </g>
+  </g>
+</svg>

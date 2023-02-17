@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="2" viewBox="0 0 21 2">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_33" data-name="Retângulo 33" width="21" height="2" transform="translate(736 473)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Caminho_5102" data-name="Caminho 5102" d="M0,0H21.4V-121.416H0Z" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="bg_emacaomat" transform="translate(-736 -473)" clip-path="url(#clip-path)">
+    <g id="Grupo_5020" data-name="Grupo 5020" transform="translate(736 594.416)">
+      <g id="Grupo_5019" data-name="Grupo 5019" clip-path="url(#clip-path-2)">
+        <g id="Grupo_5018" data-name="Grupo 5018" transform="translate(20.805 -120.665)">
+          <path id="Caminho_5101" data-name="Caminho 5101" d="M0,0H-17.22a2.835,2.835,0,0,0-2.835,2.834V117.081a2.836,2.836,0,0,0,2.835,2.835H.6" fill="none" stroke="#1c9c9a" stroke-width="1.5"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
